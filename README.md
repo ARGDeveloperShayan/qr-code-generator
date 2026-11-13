@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ARGDeveloperShayan/qr-code-generator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo">
   </a>
 
 <h3 align="center">QR Code Generator</h3>
