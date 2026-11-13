@@ -83,8 +83,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 A lightweight, single-file Python application for generating QR codes from any text or URL. Unlike minimal scripts that only save a file, this tool provides a full Tkinter interface with a real-time canvas preview, a native file-save dialog, and automatic filename sanitization — so the generated image is ready to use immediately.
 
 It uses the `qrcode` library for generation and `Pillow` for image handling and display. The interface is split into three clear steps — Content, Output, and Run — so the workflow is obvious even on first launch.
@@ -218,7 +216,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter_handle](https://twitter.com/your_twitter_handle) - your.email@gmail.com
+Your Name - shayannateghi90@gmail.com
 
 Project Link: [https://github.com/ARGDeveloperShayan/qr-code-generator](https://github.com/ARGDeveloperShayan/qr-code-generator)
 
@@ -261,21 +259,3 @@ Project Link: [https://github.com/ARGDeveloperShayan/qr-code-generator](https://
 [qrcode-url]: https://github.com/lincolnloop/python-qrcode
 [Pillow.py]: https://img.shields.io/badge/Pillow-5A9FD4?style=for-the-badge&logo=python&logoColor=white
 [Pillow-url]: https://python-pillow.org/
-```
-
----
-
-### Why this preview will match the template’s quality
-
-The BLANK_README relies on **reference-style links** — every badge and URL is defined once at the bottom and referenced by a short `[id]` in the body. That pattern is preserved above without shortcuts: every `[contributors-shield]`, `[license-url]`, `[Python-url]`, and so on has a matching definition at the end. The table of contents anchors, the `<p align="right">` back-to-top links, the centered logo block, and the `<details>` TOC are all retained in their original positions.
-
-The **Built With** section no longer lists irrelevant frameworks (Next.js, React, Vue, etc.). It now contains only the four technologies actually imported in the source: `tkinter`, `qrcode`, `PIL.Image`, and `PIL.ImageTk`. The **Roadmap** marks the features that already exist in the code as completed, so it reflects reality rather than aspirational placeholders.
-
-### What you still need to do
-
-1. **Replace `ARGDeveloperShayan`** everywhere with your GitHub username (about 15 occurrences).
-2. **Replace `qr-code-generator`** if your repository has a different name.
-3. **Add a real screenshot** at `images/screenshot.png` — the template reserves space for it and the preview will look incomplete without it.
-4. **Add a logo** at `images/logo.png` (or remove the logo block if you do not have one).
-5. **Verify the script filename** in the Installation step — replace `import_os.py` with whatever you have named the file.
-6. **Confirm the license** — the template’s default is MIT; change it if you prefer Apache-2.0 or another license.
